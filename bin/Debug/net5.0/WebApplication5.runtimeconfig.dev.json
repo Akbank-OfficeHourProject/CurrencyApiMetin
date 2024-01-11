@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\fener\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\fener\\.nuget\\packages"
+    ]
+  }
+}
